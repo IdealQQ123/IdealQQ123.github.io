@@ -1,0 +1,28 @@
+baseURL = 'https://idealqq123.github.io/'
+languageCode = 'en-us'
+title = 'Xiaolong Wu'
+theme = 'hugo-xmin'
+
+[params]
+  description = "Xiaolong Wu's personal website"
+  author = "Xiaolong Wu"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+[[menu.main]]
+  name = "Publications"
+  url = "/publications/"
+  weight = 3
+
+[[menu.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 4
