@@ -4,8 +4,13 @@ title = 'Xiaolong Wu'
 theme = 'hugo-xmin'
 
 [params]
-  description = "Xiaolong Wu's personal website"
   author = "Xiaolong Wu"
+  title_position = "Associate professor"
+  affiliation = "School of Information Engineering, Nanchang University"
+  email = "wxl6895209@gmail.com"
+  github = "IdealQQ123"
+  scholar = "https://scholar.google.com/"
+  customCSS = ["/css/custom.css"]
 
 [[menu.main]]
   name = "Home"
