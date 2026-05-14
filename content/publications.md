@@ -14,6 +14,12 @@ title: "Publications"
   Guohao Yuan, Yuan-wu Xu, Jingxuan Peng, **Xiao-long Wu†**, Xi Li.  
   *Journal of Energy Storage*, 2026, 144: 119724. [[PDF]][paper1-pdf] 
 
+- **面向工程教育专业认证与课程思政协同育人的电路实验课程教学改革探索**.  
+   曹晔†, 胡建功, **吴肖龙**, 等.  
+  *教育进展*, 2026, 16(3): 1263-1269. [[PDF]][paper3-pdf] 
+
+[[PDF]][paper3-pdf]: https://doi.org/10.12677/ae.2026.163609
+
 ## 2025
 
 - **Modeling, analysis and prediction of waste biomass gasification integrated with parallel multi-stack solid oxide fuel cell systems for low CO<sub>2<sub> emissions: A mechanistic and data-driven approach**.  
