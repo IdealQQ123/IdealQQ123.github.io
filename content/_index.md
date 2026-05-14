@@ -4,15 +4,23 @@ title: "Home"
 
 ## About
 
-I am a [PhD student / Master student / Research Engineer] at [Your University / Company], 
-working on [your research area, e.g., machine learning, computer vision, NLP].
+I am an **Associate Professor** at the Department of Automation, the School of Information Engineering, Nanchang University.
 
-My research interests include:
-- Research interest 1
-- Research interest 2
-- Research interest 3
+My research focuses on health management and condition monitoring of renewable energy power generation systems, particularly in the following topics：
+- Solid oxide fuel cell systems modeling and performance analysis
+- Lithium-ion battery systems health monitoring and degradation diagnosis
+- Multiphysics modeling and simulation using COMSOL
+- Machine learning-based fault diagnosis and prognostics
+- Intelligent control and health management of new energy systems
 
-Before that, I received my [Bachelor's / Master's] degree from [Previous University] in [Year].
+Before that, I received my Doctor's degree from **Huazhong University of Science and Technology** in 2020.
+
+
+## Contact
+- School of Information Engineering, Nanchang University, Nanchang, 330031,  P. R. China;
+- Shenzhen Huazhong University of Science and Technology Research Institute, Shenzhen, 518055,  P. R. China.
+- Email: wxl6895209@gmail.com | xiaolongwu@ncu.edu.cn
+
 
 ## News
 
@@ -20,7 +28,7 @@ Before that, I received my [Bachelor's / Master's] degree from [Previous Univers
 - **[2026.03]** Our paper "XXX" was accepted by XXX conference.
 - **[2025.12]** Joined [Lab/Group name] as a research intern.
 
-## Publications
+<!-- ## Publications
 
 ### 2026
 
@@ -46,4 +54,4 @@ Conference/Journal Name, 2025
 
 ## Contact
 
-Feel free to reach out via email or GitHub!
+Feel free to reach out via email or GitHub! -->

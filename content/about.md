@@ -4,9 +4,14 @@ title: "About"
 
 ## Biography
 
-I am an **Associate Professor** at the School of Information Engineering, Nanchang University.
+I am an **Associate Professor** at the Department of Automation, the School of Information Engineering, Nanchang University.
+My research focuses on health management and condition monitoring of renewable energy power generation systems, particularly in the following topics：
+- Solid oxide fuel cell systems modeling and performance analysis
+- Lithium-ion battery systems health monitoring and degradation diagnosis
+- Multiphysics modeling and simulation using COMSOL
+- Machine learning-based fault diagnosis and prognostics
+- Intelligent control and health management of new energy systems
 
-My research focuses on [你的研究方向].
 
 ## Education
 

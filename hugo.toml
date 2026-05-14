@@ -4,12 +4,12 @@ title = 'Xiaolong Wu'
 theme = 'hugo-xmin'
 
 [params]
-  author = "Xiaolong Wu"
-  title_position = "Associate professor"
-  affiliation = "School of Information Engineering, Nanchang University"
+  author = "Xiaolong Wu（吴肖龙）"
+  title_position = "Ph.D, Associate professor"
+  affiliation = "School of Information Engineering, Nanchang University; Shenzhen Research Institute, Huazhong University of Science and Technology.  | 南昌大学信息工程学院; 深圳华中科技大学研究院"
   email = "wxl6895209@gmail.com"
   github = "IdealQQ123"
-  scholar = "https://scholar.google.com/"
+  scholar = "https://teacher.ncu.edu.cn/publish/wxl/"
   customCSS = ["/css/custom.css"]
 
 [[menu.main]]
