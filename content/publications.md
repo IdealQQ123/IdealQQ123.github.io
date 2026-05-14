@@ -25,7 +25,7 @@ title: "Publications"
   *Sustainable Energy Technologies and Assessments*, 2025, 82: 104479.  [[PDF]][25-paper1-pdf]
 
 - **基于动态补偿机制的固体氧化物燃料电池输出电压预测控制**.  
-  李玮诺, **吴肖龙†**, 许元武, 李曦. 
+  李玮诺, **吴肖龙†**, 许元武, 李曦.  
   *武汉大学学报(理学版)*, 2025,71(06):821-830.  [[PDF]][25-paper3-pdf]
 
 - **基于融合聚类和RBF-SVM的固体氧化物燃料电池系统故障识别**.  
