@@ -198,14 +198,14 @@ title: "Publications"
 
 
 
-[paper2-pdf]: https://www.tandfonline.com/doi/abs/10.1080/15435075.2025.2572702
-[paper1-pdf]: https://www.sciencedirect.com/science/article/pii/S2352152X2504438X#
-[25-paper2-pdf]: https://www.sciencedirect.com/science/article/abs/pii/S0957582025002654
-[25-paper1-pdf]: https://www.sciencedirect.com/science/article/abs/pii/S2213138825003108
+[paper2-pdf]: https://doi.org/10.1080/15435075.2025.2572702
+[paper1-pdf]: https://doi.org/10.1016/j.est.2025.119724
+[25-paper2-pdf]: https://doi.org/10.1016/j.psep.2025.106998
+[25-paper1-pdf]: https://doi.org/10.1016/j.seta.2025.104479
 [25-paper3-pdf]: https://doi.org/10.14188/j.1671-8836.2025.0147
 [25-paper4-pdf]: https://doi.org/10.14188/j.1671-8836.2025.0094
 [25-paper5-pdf]: https://doi.org/10.19927/j.cnki.syyt.2025.01.037
-[24-paper4-pdf]: https://www.sciencedirect.com/science/article/abs/pii/S037877532400137X
-[24-paper3-pdf]: https://www.sciencedirect.com/science/article/abs/pii/S0960148124017798
-[24-paper2-pdf]: https://www.sciencedirect.com/science/article/abs/pii/S0378775324011509
+[24-paper4-pdf]: https://doi.org/10.1016/j.jpowsour.2024.234186
+[24-paper3-pdf]: https://doi.org/10.1016/j.renene.2024.121711
+[24-paper2-pdf]: https://doi.org/10.1016/j.jpowsour.2024.235198
 [24-paper1-pdf]: https://doi.org/10.13764/j.cnki.ncdg.2024.03.010
