@@ -18,7 +18,7 @@ title: "Publications"
    曹晔†, 胡建功, **吴肖龙**, 等.  
   *教育进展*, 2026, 16(3): 1263-1269. [[PDF]][paper3-pdf] 
 
-[[PDF]][paper3-pdf]: https://doi.org/10.12677/ae.2026.163609
+[paper3-pdf]: https://doi.org/10.12677/ae.2026.163609
 
 ## 2025
 
