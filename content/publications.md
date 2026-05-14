@@ -25,7 +25,7 @@ title: "Publications"
   *Sustainable Energy Technologies and Assessments*, 2025, 82: 104479.  [[PDF]][25-paper1-pdf]
 
 - **基于动态补偿机制的固体氧化物燃料电池输出电压预测控制**.  
-  李玮诺, **吴肖龙†**, 许元武, 李曦.
+  李玮诺, **吴肖龙†**, 许元武, 李曦. 
   *武汉大学学报(理学版)*, 2025,71(06):821-830.  [[PDF]][25-paper3-pdf]
 
 - **基于融合聚类和RBF-SVM的固体氧化物燃料电池系统故障识别**.  
@@ -117,7 +117,7 @@ title: "Publications"
   *Biomedical Signal Processing and Control*, 2021, 69: 102907.  [[PDF]][21-paper5-pdf]
 
 - **Solid oxide fuel cell (SOFC) performance evaluation, fault diagnosis and health control: A review**.  
-  Jingxuan Peng, Jian Huang, **Xiao-long Wu†**, Yuan-wu Xu, Haochun Chen, Xi Li†.  
+  Jingxuan Peng, Jian Huang, **Xiao-long Wu**, Yuan-wu Xu, Haochun Chen, Xi Li†.  
   *Journal of Power Sources*, 2021, 505: 230058.  [[PDF]][21-paper4-pdf]
 
 - **Data-driven fault diagnosis method for the safe and stable operation of solid oxide fuel cells system**.  
@@ -158,7 +158,7 @@ title: "Publications"
 
 - **Health state prediction and analysis of SOFC system based on the data-driven entire stage experiment**.  
   **Xiao-long Wu**, Yuan-Wu Xu, Tao Xue, Dong-qi Zhao, Jianhua Jiang, Zhonghua Deng, Xiaowei Fu, **Xi Li†**.  
-  *Applied energy*, 2019, 248: 126-140.  [[PDF]][19-paper6-pdf]
+  *Applied Energy*, 2019, 248: 126-140.  [[PDF]][19-paper6-pdf]
 
 - **Fault detection and assessment for solid oxide fuel cell system gas supply unit based on novel principal component analysis**.  
   **Xiao-long Wu**, Yuan-Wu Xu, Dong-qi Zhao, Ze-hua Li, Xiao-bo Zhong, Meng-ting Chen, Jianhua Jiang, Zhonghua Deng, Xiaowei Fu, **Xi Li†**.  
