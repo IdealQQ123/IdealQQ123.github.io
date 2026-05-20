@@ -31,3 +31,9 @@ theme = 'hugo-xmin'
   name = "Projects"
   url = "/projects/"
   weight = 4
+
+[menu]
+  [[menu.main]]
+    name = "Patents"
+    url = "/patents/"
+    weight = 5
