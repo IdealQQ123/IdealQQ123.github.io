@@ -11,6 +11,7 @@ theme = 'hugo-xmin'
   github = "IdealQQ123"
   scholar = "https://teacher.ncu.edu.cn/publish/wxl/"
   customCSS = ["/css/custom.css"]
+  footer = "© {Year} Xiaolong Wu.<br> All Rights Reserved. "
 
 [[menu.main]]
   name = "Home"
@@ -32,8 +33,19 @@ theme = 'hugo-xmin'
   url = "/projects/"
   weight = 4
 
-[menu]
-  [[menu.main]]
-    name = "Patents"
-    url = "/patents/"
-    weight = 5
+
+[[menu.main]]
+  name = "Patents"
+  url = "/patents/"
+  weight = 5
+
+[[menu.main]]
+  name = "Teaching"   # ⭐ 新增
+  url = "/teaching/"
+  weight = 6
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
