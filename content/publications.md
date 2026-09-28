@@ -6,6 +6,9 @@ title: "Publications"
 \* Equal contribution  &nbsp;&nbsp; † Corresponding author
 
 ## 2026
+- **Xie B, Ma B, Cao Y, et al. Data-driven state prediction and coordinated control for solid oxide fuel cell systems under variable renewable energy fluctuations. Sustainable Energy Technologies and Assessments, 2026, 93: 105343**.  
+  Bin Xie, Bin Ma, Ye Cao, Yuanwu Xu, Jingxuan Peng, **Xiao-long Wu**, Xi Li.  
+  *Sustainable Energy Technologies and Assessments*, 2026, 93: 105343.  [[PDF]][paper4-pdf] 
 
 - **Composite temperature control for solid oxide fuel cells under degradation effects: Integration of active disturbance rejection and model predictive control**.  
   **Xiaolong Wu**, Yunsheng Zhong, Keye Li, Yuanwu Xu, Bo Chi†, Jingxuan Peng, Xi Li.  
@@ -20,10 +23,11 @@ title: "Publications"
   *教育进展*, 2026, 16(3): 1263-1269. [[PDF]][paper3-pdf] 
 
 [paper3-pdf]: https://doi.org/10.12677/ae.2026.163609
+[paper4-pdf]: https://doi.org/10.1016/j.seta.2026.105343
 
 ## 2025
 
-- **Modeling, analysis and prediction of waste biomass gasification integrated with parallel multi-stack solid oxide fuel cell systems for low CO<sub>2<sub> emissions: A mechanistic and data-driven approach**.  
+- **Modeling, analysis and prediction of waste biomass gasification integrated with parallel multi-stack solid oxide fuel cell systems for low CO<sub>2</sub> emissions: A mechanistic and data-driven approach**.  
   **Xiao-long Wu**, Keye Li, Yuxiao Yang, Yuan-wu Xu, Jingxuan Peng, Bo Chi, Zhuo Wang, Xi Li.  
   *Process Safety and Environmental Protection*, 2025, 197: 106998.  [[PDF]][25-paper2-pdf]
 
